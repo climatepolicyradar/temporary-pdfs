@@ -1,8 +1,6 @@
 ## Instructions for uploading
 
-On the repo homepage, click the `+` then 'Upload files'.
-
-<img width="711" alt="image" src="https://github.com/user-attachments/assets/38ecdac8-3384-4aa1-ab6c-14e0252c3a4a" />
+On the repo homepage, click the 'Add file' then 'Upload files'.
 
 ## Getting the correct download link
 
